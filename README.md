@@ -1,7 +1,7 @@
 # angularjs-directive-back
 Browser backward feature
 
-# Using
+# How to use
 ```javascript
 angular.module('app', [
   'backButton'
