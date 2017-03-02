@@ -1,5 +1,5 @@
 # angularjs-directive-back
-AngularJS Directive back
+Browser backward feature
 
 # Using
 ```javascript
@@ -9,3 +9,6 @@ angular.module('app', [
 
 <button back-button>Back</button>
 ```
+
+# License
+MIT License
